@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'GyroControl'" />
-    <option name="defaultScopeName" value="Project 'GyroControl'" />
-    <option name="SEARCH_SCOPE" value="Project 'GyroControl'" />
+    <option name="customScope" value="Project 'Game1'" />
+    <option name="defaultScopeName" value="Project 'Game1'" />
+    <option name="SEARCH_SCOPE" value="Project 'Game1'" />
   </component>
 </application>
